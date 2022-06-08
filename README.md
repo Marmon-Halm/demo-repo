@@ -10,3 +10,4 @@ This is a sub header. ANd this is to push changes from visual studio code.
 
 ## Local Development
 1. Open index.html
+2. Type something in the header
